@@ -160,6 +160,8 @@ nav li.active a {
     .project-desciption {
         padding: 0;
         text-align: center;
+        width: fit-content;
+        height: fit-content;
     }
 }
 
